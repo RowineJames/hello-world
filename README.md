@@ -1,3 +1,3 @@
 # hello-world
-Finding my way around
+Finding my way around.
 Hesitating at the looking-glass.
